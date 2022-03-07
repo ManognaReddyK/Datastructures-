@@ -17,7 +17,7 @@ void main()
     printf("\nAfter sorting are:");
     for(i=0; i<n; i++)
         printf("\n%d", a[i]);
-    getch();
+  
 }
 void selection_sort()
 {
